@@ -1,0 +1,28 @@
+# PyCharm specific files
+.idea/
+*.iml
+.DS_Store
+
+# PyInstaller
+build/
+dist/
+
+# Virtualenv
+venv/
+.env
+.venv
+
+# Coverage reports
+.coverage
+.tox/
+
+# Sphinx documentation
+docs/_build/
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
